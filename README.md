@@ -34,7 +34,9 @@ Blurring Operation
 This is output of rotation operation 
 
 - Select 'Augmentation' box
-- Select folder containing images, images most have bounding box with same name in the ICDAR format 
+- Select folder containing images, images most have bounding box with same name in the ICDAR format
+
+![Show!](Screenshots/Capture7.JPG)
 
 Note: 
 - end words like '*MRP NPR.Rs.30/-' are optional
