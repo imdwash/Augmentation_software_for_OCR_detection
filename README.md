@@ -35,12 +35,6 @@ This is output of rotation operation
 
 - Select 'Augmentation' box
 - Select folder containing images, images most have bounding box with same name in the ICDAR format 
-i.e. 
-
-74, 362, 282, 389, 275, 425, 67, 396, *MRP NPR.Rs.30/-
-60, 393, 238, 419, 236, 446, 61, 421, 26/01/23 B 112
-402, 428, 618, 423, 620, 449, 404, 454, *MRP NPR. Rs.30/-
-403, 455, 576, 449, 576, 476, 405, 480, 26/01/23 B 112
 
 Note: 
 - end words like '*MRP NPR.Rs.30/-' are optional
